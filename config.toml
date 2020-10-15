@@ -54,11 +54,11 @@ title = "Contact us for more information."
 enable = true
 expire_days = 2
 [params.footer]
-address = "123 Main Street <br> New York, NY 10001"
-content = "This may be a good place to introduce yourself and your site or include some credits."
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
+address = ""
+content = "Made in BANGLADESH"
+copyright = "Copyright &copy; 2020 Kapani IT Systems and Solutions"
 hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-title = "About This Site"
+title = "Kapani IT"
 [params.gallery]
 enable = true
 [[params.gallery.gallery_item]]
