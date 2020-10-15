@@ -1,9 +1,6 @@
 ---
-title: "About"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: About
+description: Coming soon...
 
-You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.
+---
+We are updating our site and will be back soon!
