@@ -6,10 +6,6 @@ webhook_url:
 sections:
 - type: document
   path: exampleSite/config.toml
-  label: Configuration
-  match: "**/*"
-- type: document
-  path: exampleSite/config.toml
   label: Main
 - type: directory
   path: content
@@ -18,6 +14,10 @@ sections:
   match: "*"
 - type: heading
   label: Configuration
+- type: document
+  path: config.toml
+  label: Configuration
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
